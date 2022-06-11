@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Jun 11 16:24:09 2022
+[*]
+[dumpfile] "C:\Users\OMEN\Downloads\result (3)\memory_interface_FSM.vcd"
+[dumpfile_mtime] "Sat Jun 11 08:20:40 2022"
+[dumpfile_size] 1973
+[savefile] "E:\My_studies\4th_year\Sem_2\SKEL 4273 - CAD WITH HDL\Projects\CAD-assignment-batch04\memory_interface_FSM.gtkw"
+[timestart] 0
+[size] 1920 1057
+[pos] -35 -35
+*-13.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 211
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 315
+@28
+memory_interface_FSM_tb.clk
+memory_interface_FSM_tb.reset
+memory_interface_FSM_tb.rdy
+memory_interface_FSM_tb.rw
+memory_interface_FSM_tb.oe
+memory_interface_FSM_tb.we
+@24
+memory_interface_FSM_tb.present_state[1:0]
+[pattern_trace] 1
+[pattern_trace] 0
